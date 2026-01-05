@@ -5,11 +5,11 @@ Open-source IMU-driven kinematics + visualization toolkit.
 > **Status:** early / research-grade. Contributions welcome.
 
 ## What’s in this repo
-- compiled version IKU.exe for windows
+
 - `iku/` — Python source
 -        - environment.yaml
 -        — logo
-
+https://drive.google.com/drive/folders/1zma-UGC2pcLyU3ajxKKD3udwNT2iX7_9?usp=sharing
 Instructions - Download the Zip File 'IKU' and extract.  Click IKU.exe and the application should load.  Follow the on-screen instructions.  
 
 
