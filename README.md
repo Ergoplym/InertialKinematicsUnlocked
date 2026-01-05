@@ -5,10 +5,12 @@ Open-source IMU-driven kinematics + visualization toolkit.
 > **Status:** early / research-grade. Contributions welcome.
 
 ## What’s in this repo
-
+- compiled version IKU.exe for windows
 - `iku/` — Python source
 -        - environment.yaml
 -        — logo
+
+Instructions - Download the Zip File 'IKU' and extract.  Click IKU.exe and the application should load.  Follow the on-screen instructions.  
 
 
 This project has been designed around streaming data in from xsens awinda IMUs.  If you can stream data from your IMUs then I'm sure you can build a module to import it into the application.  
